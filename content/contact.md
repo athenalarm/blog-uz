@@ -1,11 +1,39 @@
 ---
-title: "Contact"
+title: "Contacto"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-If you would like to get in touch, you can reach me via email:
+Estamos aquí para ayudarte a encontrar los mejores productos de alarma antirrobo y soluciones de seguridad para tu negocio. Ya sea que necesites soporte técnico, información de distribución o detalles sobre asociaciones, nuestro equipo experimentado está listo para asistirte.
 
-**Email:** you@example.com
+## 📍 Contacta con Athenalarm
 
-You can also connect with me on social media or leave a message here. This page is fully customizable—you can add a contact form, links, or any other contact information you want.
+**Dirección:**  
+D910, Silver Star Scientific and Technical Building,  
+Guanlan, Longhua, Shenzhen, Guangdong, China  
+
+**Correo electrónico:**  
+[info@athenalarm.com](mailto:info@athenalarm.com)
+
+**Móvil / WhatsApp / Viber:**  
+[+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
+
+**Sitio web:**  
+[https://athenalarm.com](https://athenalarm.com)
+
+---
+
+## 🌐 Conéctate con nosotros
+
+Mantente al día con nuestras últimas innovaciones en seguridad, estudios de casos y lanzamientos de productos:
+
+- [LinkedIn](https://www.linkedin.com/company/athenalarm)
+- [Facebook](https://www.facebook.com/athenalarm)
+- [YouTube](https://www.youtube.com/@athenalarm3663)
+- [Instagram](https://www.instagram.com/athenalarm)
+- [Pinterest](https://www.pinterest.com/athenalarm/)
+- [X/Twitter](https://x.com/Athenalarm)
+
+---
+
+> _Athenalarm — Fabricante profesional de alarmas antirrobo y soluciones de monitoreo de alarmas en red._
