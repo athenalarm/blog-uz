@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – پیشہ ورانہ چور الارم مینوفیکچرر اور نیٹ ورک الارم مانیٹرنگ حل"
+title: "Athenalarm – Profesyonel Hırsız Alarmı Üreticisi ve Ağ Alarm İzleme Çözümleri"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## جائزہ
+## Genel Bakış
 
-2006 میں قائم، Athenalarm ایک پیشہ ورانہ چور الارم مینوفیکچرر ہے جو داخلہ الارم اور نیٹ ورک الارم مانیٹرنگ سسٹمز میں مہارت رکھتا ہے۔ ہمارے مصنوعات کاروبار، اداروں، اور رہائشی کمیونٹیز کے لیے قابل اعتماد اور عملی سیکیورٹی حل فراہم کرتے ہیں۔ ہم صنعتی معیار کے داخلہ الارم سسٹمز پر توجہ مرکوز کرتے ہیں جو داخلہ الارمز کو CCTV کے ساتھ حقیقی وقت کی تصدیق کے لیے جوڑتے ہیں، دور سے تشخیص اور مرکزی انتظام کی حمایت کرتے ہیں۔ یہ سسٹمز بینکنگ، تعلیم، ریٹیل، صحت کی دیکھ بھال، اور رہائشی کمیونٹیز سمیت مختلف شعبوں کے لیے موزوں ہیں اور دنیا بھر کے صارفین کے ذریعے قابل اعتماد ہیں۔
+2006 yılında kurulan Athenalarm, izinsiz giriş alarmı ve ağ alarm izleme sistemlerinde uzmanlaşmış profesyonel bir hırsız alarmı üreticisidir. Ürünlerimiz, işletmeler, kurumlar ve yerleşim alanları için güvenilir ve pratik güvenlik çözümleri sunar. Gerçek zamanlı doğrulama için izinsiz giriş alarmlarını CCTV ile birleştiren endüstriyel sınıf izinsiz giriş alarm sistemlerine odaklanıyoruz; uzaktan teşhis ve merkezi yönetim desteği sunar. Bu sistemler, bankacılık, eğitim, perakende, sağlık ve yerleşim alanları gibi çeşitli sektörler için uygundur ve dünya çapında müşteriler tarafından güvenilmektedir.
 
-ہماری وسیع مصنوعات کی رینج میں الارم پینلز، الارم سافٹ ویئر، موشن سینسرز، الارم ڈیٹیکٹرز، الارم اجزاء، سمارٹ ہوم سسٹمز، اور وائس ریمائنڈر ڈیوائسز شامل ہیں۔ یہ چور الارم مصنوعات مختلف ایپلیکیشنز کے لیے مکمل سیکیورٹی کور فراہم کرتی ہیں، بینک واؤلٹس سے کمیونٹی کی حد تک اور ادارہ جاتی سہولیات تک۔
+Geniş ürün yelpazemiz, alarm panelleri, alarm yazılımları, hareket sensörleri, alarm dedektörleri, alarm bileşenleri, akıllı ev sistemleri ve sesli uyarı cihazlarını kapsamaktadır. Bu hırsız alarmı ürünleri, banka kasalarından topluluk çevrelerine ve işletme tesislerine kadar çeşitli uygulamalar için kapsamlı güvenlik sağlar.
 
-اس کے علاوہ، ہم OEM اور کسٹم برانڈنگ سروسز پیش کرتے ہیں، جو پارٹنرز کو ہارڈویئر تخصیص، کثیر لسانی مینولز، اور پیکجنگ سپورٹ کے ساتھ پرائیویٹ لیبل داخلہ الارم سسٹمز لانچ کرنے کی اجازت دیتے ہیں۔ چاہے آپ ڈسٹریبیوٹر، انٹیگریٹر، یا اختتامی صارف ہوں، Athenalarm کی پیشکش دنیا بھر میں پیشہ ورانہ سیکیورٹی حل کے بے رکاوٹ نفاذ کی اجازت دیتی ہے۔
+Ayrıca, OEM ve özel marka hizmetleri sunuyoruz; bu sayede ortaklar, donanım özelleştirmesi, çok dilli kullanım kılavuzları ve paketleme desteği ile özel marka izinsiz giriş alarm sistemlerini hızlı bir şekilde piyasaya sürebilir. İster distribütör, entegratör ister son kullanıcı olun, Athenalarm’ın çözümleri, profesyonel güvenlik çözümlerinin dünya çapında sorunsuz dağıtımını sağlar.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## مصنوعات
+## Ürünler
 
-![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Endüstriyel AS-9000 serisi alarm panelleri ticari bir kompleks içinde kurulmuş](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| مصنوعات کی لائن | اہم فوائد | مثالی برائے |
-|----------------|-----------|------------|
-| AS-9000 سیریز الارم پینلز | کثیر چینل کمیونیکیشن (PSTN, 4G, TCP/IP)، قابل توسیع زونز (16 وائرڈ، 30 وائرلیس، ماڈیولز کے ذریعے 1,656 تک)، LCD کیپیڈ کے ساتھ وائس پرامپٹس، تمپر ڈیٹیکشن، خودکار ایونٹ لاگنگ | بینک، صنعتی پارکس، اسکول، کمرشل کمپلیکس، رہائشی کمیونٹیز |
-| نیٹ ورک الارم مانیٹرنگ حل | مرکزی انتظام، داخلہ الارمز کو CCTV اور کلاؤڈ پلیٹ فارمز کے ساتھ ضم کرتا ہے، حقیقی وقت الارم پاپ اپ، ویڈیو ریکارڈنگ، کثیر سطح فارورڈنگ، دور دراز تشخیص | بینک برانچز، ATM، واؤلٹس، ہوٹلز، اسٹورز، ادارے، پرائمٹری، رہائشی کمیونٹیز |
-| AA-100 سیریز وائس ریمائنڈر | حسب ضرورت وائس الرٹس (MP3)، دو طرفہ پلے بیک، مٹ الارم موڈ، وائرڈ/وائرلیس انٹیگریشن، دوہری لائٹنگ موڈز | ریٹیل اسپیسز، ہسپتال، دفاتر، ہوٹلز، بینک، ویئرہاؤس، رہائشی سائٹس |
-| الارم ڈیٹیکٹرز | PIR موشن سینسرز (AT-805, AT-806)، فوٹو الیکٹرک دھوئیں کا ڈیٹیکٹر (AS-603PC)، گیس ڈیٹیکٹر (AS-705)، ڈیجیٹل وائبریشن ڈیٹیکٹر (AS-971)، ڈور کانٹیکٹ (AA-56)، پینک بٹن (AA-28B, AA-07) | گھروں، دفاتر، بینک، ہوٹلز، ہسپتال، ویئرہاؤس، ریٹیل اسپیسز |
-| سمارٹ ہوم سسٹمز | GSM/WIFI الارم سسٹم (AS-6000)، دیگر سینسرز اور پینلز کے ساتھ مربوط، خودکار الرٹس اور دور سے مانیٹرنگ کے لیے | رہائشی کمیونٹیز، دفاتر، چھوٹے کاروبار |
+| Ürün Serisi | Temel Avantajlar | İdeal Kullanım Alanları |
+|-------------|----------------|------------------------|
+| AS-9000 Serisi Alarm Panelleri | Çok kanallı iletişim (PSTN, 4G, TCP/IP), genişletilebilir zonlar (16 kablolu, 30 kablosuz, modüllerle 1.656’ya kadar), sesli uyarılı LCD tuş takımı, kurcalama tespiti, otomatik olay kaydı | Bankalar, sanayi parkları, okullar, ticari kompleksler, yerleşim alanları |
+| Ağ Alarm İzleme Çözümleri | Merkezi yönetim, izinsiz giriş alarmlarını CCTV ve bulut platformlarıyla entegre eder, gerçek zamanlı alarm açılır pencereleri, video kaydı, çok seviyeli yönlendirme, uzaktan teşhis | Banka şubeleri, ATM’ler, kasalar, oteller, mağazalar, işletmeler, çevre alanları, yerleşim alanları |
+| AA-100 Serisi Sesli Uyarılar | Özelleştirilebilir sesli uyarılar (MP3), çift yönlü oynatma, sessiz alarm modu, kablolu/kablosuz entegrasyon, çift aydınlatma modu | Perakende alanları, hastaneler, ofisler, oteller, bankalar, depolar, yerleşim alanları |
+| Alarm Dedektörleri | PIR hareket sensörleri (AT-805, AT-806), fotoelektrik duman dedektörü (AS-603PC), gaz dedektörü (AS-705), dijital titreşim dedektörü (AS-971), kapı kontakları (AA-56), panik butonları (AA-28B, AA-07) | Evler, ofisler, bankalar, oteller, hastaneler, depolar, perakende alanları |
+| Akıllı Ev Sistemleri | GSM/WIFI alarm sistemi (AS-6000), diğer sensörler ve panellerle entegre edilerek otomatik uyarılar ve uzaktan izleme sağlar | Yerleşim alanları, ofisler, küçük işletmeler |
 
-[ویڈیو 1 دیکھیں](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[ویڈیو 2 دیکھیں](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Video 1 İzle](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Video 2 İzle](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM اور کسٹم برانڈنگ سروسز
+## OEM ve Özel Marka Hizmetleri
 
-ہم ڈسٹریبیوٹرز اور انٹیگریٹرز کے لیے پرائیویٹ لیبل اور کسٹم حل فراہم کرتے ہیں: ہارڈویئر تخصیص، کثیر لسانی مینولز، پیکجنگ، اور برانڈنگ سپورٹ۔ یہ پارٹنرز کو برانڈڈ چور الارم مصنوعات کو تیزی سے اور پیشہ ورانہ انداز میں لانچ کرنے کی اجازت دیتا ہے۔
+Distribütörler ve entegratörler için özel etiket ve özel çözümler sunuyoruz: donanım özelleştirmesi, çok dilli kullanım kılavuzları, paketleme ve marka desteği. Ortakların markalı hırsız alarm ürünlerini hızlı ve profesyonel bir şekilde piyasaya sürmesine olanak tanır.
 
-مثالی برائے: ڈسٹریبیوٹرز اور انٹیگریٹرز جو برانڈڈ سیکیورٹی مصنوعات لانچ کر رہے ہیں
+İdeal Kullanım: Markalı güvenlik ürünleri piyasaya süren distribütörler ve entegratörler
 
-[OEM مثال دیکھیں](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[OEM Örneğini Görüntüle](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## کیوں Athenalarm ممتاز ہے
+## Athenalarm’ın Öne Çıkma Nedenleri
 
-- ثابت شدہ مہارت: 2006 سے، اسکیل ایبل داخلہ الارم اور چور الارم حل فراہم کر رہا ہے جو دنیا بھر کے صارفین کے ذریعہ قابل اعتماد ہیں۔  
-- کثیر الجہتی ایپلیکیشنز: بینک، ہوٹلز، اسٹورز، کمیونٹیز، دفاتر، اور مزید کے لیے مثالی — الارمز، CCTV، اور کلاؤڈ ٹیکنالوجی کو مرکزی کنٹرول کے لیے جوڑتا ہے۔  
-- لاگت مؤثر جدت: آسان تنصیب کے سسٹمز، کثیر چینل کمیونیکیشن (PSTN, 4G, TCP/IP) اور توسیع پذیر خصوصیات کے ساتھ مسابقتی قیمتوں پر۔  
-- کسٹمر اطمینان: دنیا بھر میں صارفین کے ذریعہ قابل اعتماد سیکیورٹی مصنوعات اور سسٹمز۔
+- Kanıtlanmış Uzmanlık: 2006’dan beri dünya çapında müşteriler tarafından güvenilen ölçeklenebilir izinsiz giriş ve hırsız alarmı çözümleri sunuyor.  
+- Çok Yönlü Uygulamalar: Bankalar, oteller, mağazalar, topluluklar, ofisler ve daha fazlası için ideal—alarm, CCTV ve bulut teknolojisini merkezi kontrol için birleştirir.  
+- Maliyet-Etkin Yenilik: Çok kanallı iletişim (PSTN, 4G, TCP/IP) ve genişletilebilir özelliklere sahip, kurulumu kolay sistemler, rekabetçi fiyatlarla.  
+- Müşteri Memnuniyeti: Dünya çapında müşteriler tarafından güvenilen, güvenilir güvenlik ürünleri ve sistemleri.
 
-[کسٹمر انسٹالیشن کیس اسٹڈیز دیکھیں](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Müşteri Kurulum Örneklerini Görüntüle](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## کسٹمر ٹیسٹی مونیلز
+## Müşteri Görüşleri
 
-- “داخلہ الارم بہت اچھا ہے، میں نے ایک سیٹ انسٹال کیا اور یہ بہترین کام کر رہا ہے۔” – Rabeah Arnous, CEO  
-- “حیرت انگیز سسٹم… انسٹال کیا اور میرے کلائنٹ بہت مطمئن تھے۔ 5 اسٹار ریٹنگ۔” – Bassey Tom, CEO  
-- “نیٹ ورک الارم مانیٹرنگ سسٹم بہت اچھا ہے، استعمال میں آسان، انسٹال میں آسان اور حقیقی وقت ترسیل سے بہتر۔ ہم اپنے اگلے آرڈر کے منتظر ہیں۔” – Ben Takan, Security Coordinator
+- “İzinsiz giriş alarmı çok iyi, bir set kurdum ve harika çalışıyor.” – Rabeah Arnous, CEO  
+- “Muhteşem sistem… Kurduk ve müşterim çok memnun kaldı. 5 yıldız.” – Bassey Tom, CEO  
+- “Ağ alarm izleme sistemi çok iyi, kullanımı ve kurulumu kolay, gerçek zamanlı iletimin ötesinde. Bir sonraki siparişimizi sabırsızlıkla bekliyoruz.” – Ben Takan, Güvenlik Koordinatörü
 
-## شروع کریں
+## Başlamak İçin
 
-چاہے آپ سیکیورٹی انٹیگریٹر، ڈسٹریبیوٹر، یا اختتامی صارف ہوں، Athenalarm اعلیٰ معیار کی چور الارم مصنوعات اور داخلہ الارم سسٹمز فراہم کرتا ہے جو آپ کی ضروریات کے مطابق ہیں۔
+İster bir güvenlik entegratörü, distribütör ister son kullanıcı olun, Athenalarm ihtiyaçlarınıza uygun yüksek kaliteli hırsız alarm ürünleri ve izinsiz giriş alarm sistemleri sunar.
 
-[اب Athenalarm.com ملاحظہ کریں – آج ہی مفت کوٹیشن حاصل کریں!](https://athenalarm.com/)
+[Athenalarm.com’u Ziyaret Edin – Bugün Ücretsiz Teklif Alın!](https://athenalarm.com/)
 
-## ہم سے براہ راست رابطہ کریں
+## Bizimle Doğrudan İletişime Geçin
 
-- ویب سائٹ: [https://athenalarm.com/](https://athenalarm.com/)  
-- ای میل: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- موبائل/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Web Sitesi: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-posta: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## ہمارا فالو کریں
+## Bizi Takip Edin
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

@@ -1,31 +1,31 @@
 ---
-title: "Contact"
+title: "İletişim"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-ہم یہاں آپ کی مدد کے لیے موجود ہیں تاکہ آپ اپنے کاروبار کے لیے بہترین چور الارم مصنوعات اور سیکیورٹی حل تلاش کر سکیں۔ چاہے آپ کو تکنیکی مدد، تقسیم کی تفصیلات، یا شراکت داری کی معلومات درکار ہوں، ہماری تجربہ کار ٹیم آپ کی معاونت کے لیے تیار ہے۔
+İşletmeniz için en iyi hırsız alarm ürünlerini ve güvenlik çözümlerini bulmanıza yardımcı olmak için buradayız. Teknik destek, dağıtım bilgileri veya iş ortaklığı bilgilerine ihtiyacınız olsun, deneyimli ekibimiz size destek vermeye hazır.
 
-## 📍 Contact Athenalarm
+## 📍 Athenalarm ile İletişime Geçin
 
-**Address:**  
+**Adres:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**E-posta:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobile / WhatsApp / Viber:**  
+**Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Web Sitesi:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Connect With Us
+## 🌐 Bizimle Bağlantıda Kalın
 
-ہماری تازہ ترین سیکیورٹی ایجادات، کیس اسٹڈیز، اور مصنوعات کی ریلیزز سے باخبر رہیں:
+En son güvenlik yeniliklerimiz, vaka incelemelerimiz ve ürün duyurularımız hakkında güncel kalın:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — پروفیشنل چور الارم بنانے والا اور نیٹ ورک الارم مانیٹرنگ حل فراہم کرنے والا._
+> _Athenalarm — Profesyonel Hırsız Alarmı Üreticisi & Ağ Tabanlı Alarm İzleme Çözümleri._
