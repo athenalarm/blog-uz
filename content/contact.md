@@ -1,31 +1,31 @@
 ---
-title: "تماس با ما"
+title: "Contact"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-ما اینجا هستیم تا به شما در یافتن بهترین محصولات دزدگیر و راهکارهای امنیتی برای کسب‌وکارتان کمک کنیم. چه به پشتیبانی فنی، جزئیات توزیع یا اطلاعات همکاری نیاز داشته باشید، تیم مجرب ما آماده ارائه کمک به شما است.
+Wij staan klaar om u te helpen de beste inbraakalarmsystemen en beveiligingsoplossingen voor uw bedrijf te vinden. Of u nu technische ondersteuning, distributie-informatie of partnerschapsmogelijkheden nodig heeft, ons ervaren team staat voor u klaar.
 
-## 📍 تماس با Athenalarm
+## 📍 Contact Athenalarm
 
-**آدرس:**  
+**Adres:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**ایمیل:**  
+**E-mail:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**موبایل / واتساپ / وایبر:**  
+**Mobiel / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**وب‌سایت:**  
+**Website:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 ارتباط با ما
+## 🌐 Verbind met ons
 
-با آخرین نوآوری‌های امنیتی، مطالعات موردی و عرضه محصولات ما همراه باشید:
+Blijf op de hoogte van onze nieuwste beveiligingsinnovaties, case studies en productlanceringen:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — تولیدکننده حرفه‌ای دزدگیر و ارائه‌دهنده راهکارهای نظارت شبکه‌ای بر دزدگیر._
+> _Athenalarm — Professionele fabrikant van inbraakalarmsystemen & oplossingen voor netwerkalarmering._
