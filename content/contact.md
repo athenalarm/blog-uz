@@ -1,31 +1,31 @@
 ---
-title: "Contato"
+title: "Kontakt"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Estamos aqui para ajudá-lo a encontrar os melhores produtos de alarme contra intrusão e soluções de segurança para o seu negócio. Seja para suporte técnico, informações de distribuição ou oportunidades de parceria, nossa equipe experiente está pronta para atender você.
+Wir sind hier, um Ihnen zu helfen, die besten Einbruchmeldeanlagen und Sicherheitslösungen für Ihr Unternehmen zu finden. Ob Sie technische Unterstützung, Vertriebsinformationen oder Partnerschaftsdetails benötigen – unser erfahrenes Team steht Ihnen jederzeit zur Verfügung.
 
-## 📍 Contato Athenalarm
+## 📍 Kontakt zu Athenalarm
 
-**Endereço:**  
+**Adresse:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-mail:**  
+**E-Mail:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Celular / WhatsApp / Viber:**  
+**Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Webseite:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Conecte-se Conosco
+## 🌐 Verbinden Sie sich mit uns
 
-Fique por dentro das nossas mais recentes inovações em segurança, estudos de caso e lançamentos de produtos:
+Bleiben Sie auf dem Laufenden über unsere neuesten Sicherheitsinnovationen, Fallstudien und Produktneuheiten:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Fique por dentro das nossas mais recentes inovações em segurança, estudos de 
 
 ---
 
-> _Athenalarm — Fabricante Profissional de Alarmes Contra Intrusão e Soluções de Monitoramento de Alarmes em Rede._
+> _Athenalarm — Professioneller Hersteller von Einbruchmeldeanlagen & Lösungen für die Netzwerk-Alarmüberwachung._
