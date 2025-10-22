@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogko.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm 블로그"
-languageCode = "ko-kr"
+baseURL = "https://bloghi.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm ब्लॉग"
+languageCode = "hi-in"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "홈"
+    name = "मुखपृष्ठ"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "게시물"
+    name = "पोस्ट्स"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "문의하기"
+    name = "संपर्क करें"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # 홈페이지에 최신 5개의 게시물 표시
-mainSections = ["posts"]  # 홈 페이지에는 type이 "posts"인 게시물만 표시
+paginate = 5          # 首页显示最新 5 篇文章
+mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
