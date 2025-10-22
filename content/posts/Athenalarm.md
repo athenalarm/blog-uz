@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Professionele Fabrikant van Inbraakalarmen & Netwerk Alarm Monitoring Oplossingen"
+title: "Athenalarm – Επαγγελματικός Κατασκευαστής Συστημάτων Συναγερμού & Λύσεων Δικτυακής Παρακολούθησης Συναγερμών"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Overzicht
+## Επισκόπηση
 
-Opgericht in 2006, is Athenalarm een professionele fabrikant van inbraakalarmen, gespecialiseerd in inbraakalarmsystemen en netwerk alarm monitoring. Onze producten bieden betrouwbare en praktische beveiligingsoplossingen voor bedrijven, instellingen en woonwijken. Wij richten ons op industriële intruder alarmsystemen die inbraakalarms combineren met CCTV voor realtime verificatie, met ondersteuning voor remote diagnostiek en gecentraliseerd beheer. Deze systemen zijn geschikt voor diverse sectoren, waaronder bankwezen, onderwijs, detailhandel, gezondheidszorg en woonwijken, en worden wereldwijd vertrouwd door klanten.
+Ιδρυμένη το 2006, η **Athenalarm** είναι ένας επαγγελματικός κατασκευαστής συστημάτων συναγερμού κατά των διαρρήξεων, εξειδικευμένος σε συστήματα συναγερμού εισβολής και λύσεις δικτυακής παρακολούθησης συναγερμών. Τα προϊόντα μας προσφέρουν αξιόπιστες και πρακτικές λύσεις ασφαλείας για επιχειρήσεις, ιδρύματα και οικιστικές κοινότητες. Επικεντρωνόμαστε σε βιομηχανικού τύπου συστήματα συναγερμού εισβολής που συνδυάζουν συναγερμούς με CCTV για επιβεβαίωση σε πραγματικό χρόνο, υποστηρίζοντας απομακρυσμένη διάγνωση και κεντρική διαχείριση. Αυτά τα συστήματα είναι κατάλληλα για διάφορους τομείς, όπως τραπεζικός, εκπαιδευτικός, λιανικής, υγειονομικής περίθαλψης και οικιστικές περιοχές, και εμπιστεύονται από πελάτες παγκοσμίως.
 
-Ons uitgebreide productaanbod omvat alarmpanelen, alarmsoftware, bewegingssensoren, alarmdetectoren, alarmcomponenten, smart home systemen en spraakherinneringsapparaten. Deze inbraakalarmen bieden uitgebreide beveiligingsdekking voor uiteenlopende toepassingen, van bankkluizen tot gemeenschapsperimeters en bedrijfsfaciliteiten.
+Η εκτεταμένη γκάμα προϊόντων μας περιλαμβάνει πίνακες συναγερμού, λογισμικό συναγερμού, αισθητήρες κίνησης, ανιχνευτές συναγερμού, εξαρτήματα συναγερμού, συστήματα έξυπνου σπιτιού και συσκευές φωνητικής ειδοποίησης. Αυτά τα προϊόντα συναγερμού κατά των διαρρήξεων προσφέρουν ολοκληρωμένη κάλυψη ασφαλείας για διάφορες εφαρμογές, από θυρίδες τραπεζών έως περιφράξεις κοινοτήτων και εγκαταστάσεις επιχειρήσεων.
 
-Daarnaast bieden wij OEM- en maatwerk brandingdiensten, waarmee partners private-label inbraakalarmen kunnen lanceren met hardware-aanpassing, meertalige handleidingen en verpakkingsondersteuning. Of u nu een distributeur, integrator of eindgebruiker bent, Athenalarm’s oplossingen maken naadloze implementatie van professionele beveiligingssystemen wereldwijd mogelijk.
+Επιπλέον, προσφέρουμε υπηρεσίες **OEM** και προσαρμοσμένου branding, δίνοντας τη δυνατότητα στους συνεργάτες να λανσάρουν συστήματα συναγερμού ιδιωτικής ετικέτας με προσαρμοσμένο υλικό, πολυγλωσσικά εγχειρίδια και υποστήριξη συσκευασίας. Είτε είστε διανομέας, ενσωματωτής ή τελικός χρήστης, οι λύσεις της **Athenalarm** σας επιτρέπουν την απρόσκοπτη υλοποίηση επαγγελματικών λύσεων ασφαλείας σε όλο τον κόσμο.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Producten
+## Προϊόντα
 
-![Industriële AS-9000 serie alarmpanelen geïnstalleerd in een commercieel complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Productlijn | Belangrijkste Voordelen | Ideaal Voor |
-|-------------|-----------------------|------------|
-| AS-9000 Serie Alarmpanelen | Meerdere communicatiemethoden (PSTN, 4G, TCP/IP), uitbreidbare zones (16 bedraad, 30 draadloos, tot 1.656 via modules), LCD-toetsenbord met spraakaanwijzingen, sabotage-detectie, automatische gebeurtenislogging | Banken, industriële parken, scholen, commerciële complexen, woonwijken |
-| Netwerk Alarm Monitoring Oplossingen | Gecentraliseerd beheer, integreert inbraakalarms met CCTV & cloudplatforms, realtime alarmmeldingen, videoregistratie, multi-level doorsturing, remote diagnostiek | Bankfilialen, geldautomaten, kluizen, hotels, winkels, bedrijven, perimeters, woonwijken |
-| AA-100 Serie Spraakherinneringen | Aanpasbare spraakmeldingen (MP3), bidirectionele weergave, mute alarmmodus, bedrade/draadloze integratie, dubbele verlichtingsmodi | Winkels, ziekenhuizen, kantoren, hotels, banken, magazijnen, woonlocaties |
-| Alarmdetectoren | PIR bewegingssensoren (AT-805, AT-806), foto-elektrische rookdetector (AS-603PC), gasdetector (AS-705), digitale trillingsdetector (AS-971), deurcontact (AA-56), paniekknoppen (AA-28B, AA-07) | Woningen, kantoren, banken, hotels, ziekenhuizen, magazijnen, winkels |
-| Smart Home Systemen | GSM/WIFI alarmsysteem (AS-6000), integreert met andere sensoren en panelen voor automatische meldingen en remote monitoring | Woonwijken, kantoren, kleine bedrijven |
+| Σειρά Προϊόντων | Κύρια Πλεονεκτήματα | Ιδανικό Για |
+|------------------|--------------------|-------------|
+| Σειρά AS-9000 Πίνακες Συναγερμού | Πολυκαναλική επικοινωνία (PSTN, 4G, TCP/IP), επεκτάσιμες ζώνες (16 ενσύρματες, 30 ασύρματες, έως 1.656 μέσω μονάδων), πληκτρολόγιο LCD με φωνητικές ειδοποιήσεις, ανίχνευση δολιοφθοράς, αυτόματη καταγραφή γεγονότων | Τράπεζες, βιομηχανικά πάρκα, σχολεία, εμπορικά συγκροτήματα, οικιστικές κοινότητες |
+| Λύσεις Δικτυακής Παρακολούθησης Συναγερμών | Κεντρική διαχείριση, ενσωμάτωση συναγερμών εισβολής με CCTV & πλατφόρμες cloud, αναδυόμενες ειδοποιήσεις συναγερμού σε πραγματικό χρόνο, καταγραφή βίντεο, πολυεπίπεδη προώθηση, απομακρυσμένη διάγνωση | Τραπεζικά υποκαταστήματα, ΑΤΜ, θυρίδες, ξενοδοχεία, καταστήματα, επιχειρήσεις, περιφράξεις, οικιστικές κοινότητες |
+| Σειρά AA-100 Συσκευές Φωνητικής Ειδοποίησης | Προσαρμοσμένες φωνητικές ειδοποιήσεις (MP3), αμφίδρομη αναπαραγωγή, λειτουργία σίγασης συναγερμού, ενσύρματη/ασύρματη ενσωμάτωση, διπλές λειτουργίες φωτισμού | Χώροι λιανικής, νοσοκομεία, γραφεία, ξενοδοχεία, τράπεζες, αποθήκες, κατοικίες |
+| Ανιχνευτές Συναγερμού | Αισθητήρες κίνησης PIR (AT-805, AT-806), φωτοηλεκτρικός ανιχνευτής καπνού (AS-603PC), ανιχνευτής αερίου (AS-705), ψηφιακός ανιχνευτής δόνησης (AS-971), μαγνητική επαφή πόρτας (AA-56), κουμπιά πανικού (AA-28B, AA-07) | Κατοικίες, γραφεία, τράπεζες, ξενοδοχεία, νοσοκομεία, αποθήκες, καταστήματα |
+| Συστήματα Έξυπνου Σπιτιού | Σύστημα συναγερμού GSM/WIFI (AS-6000), ενσωματώνεται με άλλους αισθητήρες και πίνακες για αυτοματοποιημένες ειδοποιήσεις και απομακρυσμένη παρακολούθηση | Οικιστικές κοινότητες, γραφεία, μικρές επιχειρήσεις |
 
-[Bekijk Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Bekijk Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Δείτε το Βίντεο 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Δείτε το Βίντεο 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM & Maatwerk Branding Diensten
+## Υπηρεσίες OEM & Προσαρμοσμένου Branding
 
-Wij bieden private-label en maatwerkoplossingen voor distributeurs en integrators: hardware-aanpassing, meertalige handleidingen, verpakking en brandingondersteuning. Hiermee kunnen partners snel en professioneel gebrandmerkte inbraakalarmen lanceren.
+Παρέχουμε λύσεις ιδιωτικής ετικέτας και προσαρμοσμένες υπηρεσίες για διανομείς και ενσωματωτές: προσαρμογή υλικού, πολυγλωσσικά εγχειρίδια, συσκευασία και υποστήριξη επωνυμίας. Αυτό επιτρέπει στους συνεργάτες να λανσάρουν προϊόντα συναγερμού με τη δική τους επωνυμία, γρήγορα και επαγγελματικά.
 
-Ideaal Voor: Distributeurs en integrators die gebrandmerkte beveiligingsproducten willen lanceren
+**Ιδανικό Για:** Διανομείς και ενσωματωτές που επιθυμούν να λανσάρουν επώνυμα προϊόντα ασφαλείας.
 
-[Bekijk OEM Voorbeeld](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Δείτε Παράδειγμα OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Waarom Athenalarm Opvalt
+## Γιατί Ξεχωρίζει η Athenalarm
 
-- Bewezen Expertise: Sinds 2006 leveren wij schaalbare inbraakalarmsystemen en inbraakalarmen die wereldwijd door klanten worden vertrouwd.  
-- Veelzijdige Toepassingen: Ideaal voor banken, hotels, winkels, gemeenschappen, kantoren en meer—combinatie van alarmsystemen, CCTV en cloudtechnologie voor gecentraliseerde controle.  
-- Kosteneffectieve Innovatie: Eenvoudig te installeren systemen met meerdere communicatiemethoden (PSTN, 4G, TCP/IP) en uitbreidbare functies tegen concurrerende prijzen.  
-- Klanttevredenheid: Wereldwijd vertrouwd voor betrouwbare beveiligingsproducten en -systemen.
+- **Αποδεδειγμένη Εμπειρία:** Από το 2006, προσφέρουμε επεκτάσιμες λύσεις συναγερμού εισβολής και κατά των διαρρήξεων που εμπιστεύονται πελάτες παγκοσμίως.  
+- **Πολυχρηστικές Εφαρμογές:** Ιδανικές για τράπεζες, ξενοδοχεία, καταστήματα, κοινότητες, γραφεία και περισσότερα — συνδυάζοντας συναγερμούς, CCTV και τεχνολογία cloud για κεντρικό έλεγχο.  
+- **Καινοτομία με Οικονομία:** Εύκολα στην εγκατάσταση συστήματα με πολυκαναλική επικοινωνία (PSTN, 4G, TCP/IP) και επεκτάσιμα χαρακτηριστικά σε ανταγωνιστικές τιμές.  
+- **Ικανοποίηση Πελατών:** Εμπιστοσύνη από πελάτες παγκοσμίως για αξιόπιστα προϊόντα και συστήματα ασφαλείας.
 
-[Bekijk Klantinstallatie Case Studies](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Δείτε Μελέτες Εγκατάστασης Πελατών](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Klantgetuigenissen
+## Μαρτυρίες Πελατών
 
-- “Het inbraakalarm is prima, ik heb een set geïnstalleerd en het werkt geweldig.” – Rabeah Arnous, CEO  
-- “Geweldig systeem…Heb het geïnstalleerd en mijn klant was zeer tevreden. 5-sterren beoordeling.” – Bassey Tom, CEO  
-- “Het netwerk alarm monitoring systeem is zo goed, eenvoudig te gebruiken, gemakkelijk te installeren en levert realtime transmissie. We kijken uit naar onze volgende bestelling.” – Ben Takan, Security Coordinator
+- “Το σύστημα συναγερμού εισβολής είναι εξαιρετικό, εγκατέστησα ένα σετ και λειτουργεί άψογα.” – **Rabeah Arnous**, CEO  
+- “Εντυπωσιακό σύστημα… Το εγκατέστησα και ο πελάτης μου έμεινε πολύ ικανοποιημένος. Αξιολόγηση 5 αστέρων.” – **Bassey Tom**, CEO  
+- “Το σύστημα δικτυακής παρακολούθησης συναγερμών είναι εξαιρετικό, εύκολο στη χρήση, εύκολο στην εγκατάσταση και παρέχει μετάδοση σε πραγματικό χρόνο. Ανυπομονούμε για την επόμενη παραγγελία μας.” – **Ben Takan**, Συντονιστής Ασφαλείας
 
-## Begin Vandaag
+## Ξεκινήστε Τώρα
 
-Of u nu een beveiligingsintegrator, distributeur of eindgebruiker bent, Athenalarm biedt hoogwaardige inbraakalarmen en inbraakalarmsystemen op maat van uw behoeften.
+Είτε είστε ενσωματωτής ασφαλείας, διανομέας ή τελικός χρήστης, η **Athenalarm** παρέχει υψηλής ποιότητας προϊόντα συναγερμού και συστήματα συναγερμού εισβολής, προσαρμοσμένα στις ανάγκες σας.
 
-[Bezoek Athenalarm.com Nu – Vraag Vandaag Nog Een Gratis Offerte Aan!](https://athenalarm.com/)
+[Επισκεφθείτε το Athenalarm.com Τώρα – Ζητήστε Δωρεάν Προσφορά Σήμερα!](https://athenalarm.com/)
 
-## Neem Direct Contact Op
+## Επικοινωνήστε Μαζί Μας Απευθείας
 
-- Website: [https://athenalarm.com/](https://athenalarm.com/)  
-- E-mail: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobiel/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Ιστότοπος: [https://athenalarm.com/](https://athenalarm.com/)  
+- Email: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Κινητό/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Volg Ons
+## Ακολουθήστε Μας
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

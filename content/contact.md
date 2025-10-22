@@ -1,31 +1,31 @@
 ---
-title: "Contact"
+title: "Επικοινωνία"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Wij staan klaar om u te helpen de beste inbraakalarmsystemen en beveiligingsoplossingen voor uw bedrijf te vinden. Of u nu technische ondersteuning, distributie-informatie of partnerschapsmogelijkheden nodig heeft, ons ervaren team staat voor u klaar.
+Είμαστε εδώ για να σας βοηθήσουμε να βρείτε τα καλύτερα προϊόντα συναγερμών κατά διαρρηκτών και λύσεις ασφαλείας για την επιχείρησή σας. Είτε χρειάζεστε τεχνική υποστήριξη, πληροφορίες διανομής ή στοιχεία συνεργασίας, η έμπειρη ομάδα μας είναι έτοιμη να σας εξυπηρετήσει.
 
-## 📍 Contact Athenalarm
+## 📍 Επικοινωνήστε με την Athenalarm
 
-**Adres:**  
+**Διεύθυνση:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-mail:**  
+**Email:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobiel / WhatsApp / Viber:**  
+**Κινητό / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Ιστότοπος:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Verbind met ons
+## 🌐 Συνδεθείτε Μαζί Μας
 
-Blijf op de hoogte van onze nieuwste beveiligingsinnovaties, case studies en productlanceringen:
+Μείνετε ενημερωμένοι για τις πιο πρόσφατες καινοτομίες ασφαλείας, μελέτες περιπτώσεων και κυκλοφορίες προϊόντων:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Blijf op de hoogte van onze nieuwste beveiligingsinnovaties, case studies en pro
 
 ---
 
-> _Athenalarm — Professionele fabrikant van inbraakalarmsystemen & oplossingen voor netwerkalarmering._
+> _Athenalarm — Επαγγελματίας Κατασκευαστής Συναγερμών Κατά Διαρρηκτών & Λύσεων Δικτυακής Παρακολούθησης Συναγερμών._

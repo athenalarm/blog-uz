@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blognl.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm Blog"  # 在荷兰语中，自然表达为 "Athenalarm Blog"
-languageCode = "nl"
+baseURL = "https://blogel.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Ιστολόγιο Athenalarm"
+languageCode = "el"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,19 +13,19 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Startpagina"
+    name = "Αρχική"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Berichten"
+    name = "Άρθρα"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Επικοινωνία"
     url = "/contact/"
     weight = 3
 
