@@ -1,31 +1,31 @@
 ---
-title: "お問い合わせ"
+title: "문의하기"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-私たちは、貴社に最適な防犯アラーム製品およびセキュリティソリューションを見つけるお手伝いをいたします。技術サポート、流通情報、パートナーシップの詳細など、あらゆるご要望に経験豊富なチームが対応いたします。
+귀사의 비즈니스에 가장 적합한 침입 경보 제품과 보안 솔루션을 찾을 수 있도록 도와드립니다. 기술 지원, 유통 관련 정보 또는 파트너십 문의가 필요하신 경우, 당사의 경험 많은 팀이 언제든지 지원해 드립니다.
 
-## 📍 Athenalarmへのお問い合わせ
+## 📍 Athenalarm 문의
 
-**住所:**  
+**주소:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**メール:**  
+**이메일:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**携帯 / WhatsApp / Viber:**  
+**휴대전화 / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**ウェブサイト:**  
+**웹사이트:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 ソーシャルでつながる
+## 🌐 소셜 미디어에서 만나보세요
 
-最新のセキュリティ技術、事例紹介、製品リリース情報をチェック：
+최신 보안 혁신, 사례 연구, 제품 출시 소식을 실시간으로 확인하세요:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — プロフェッショナルな防犯アラームメーカー & ネットワークアラーム監視ソリューション。_
+> _Athenalarm — 전문 침입 경보 제조업체 및 네트워크 경보 모니터링 솔루션 제공업체._
