@@ -1,31 +1,31 @@
 ---
-title: "İletişim"
+title: "تماس با ما"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-İşletmeniz için en iyi hırsız alarm ürünlerini ve güvenlik çözümlerini bulmanıza yardımcı olmak için buradayız. Teknik destek, dağıtım bilgileri veya iş ortaklığı bilgilerine ihtiyacınız olsun, deneyimli ekibimiz size destek vermeye hazır.
+ما اینجا هستیم تا به شما در یافتن بهترین محصولات دزدگیر و راهکارهای امنیتی برای کسب‌وکارتان کمک کنیم. چه به پشتیبانی فنی، جزئیات توزیع یا اطلاعات همکاری نیاز داشته باشید، تیم مجرب ما آماده ارائه کمک به شما است.
 
-## 📍 Athenalarm ile İletişime Geçin
+## 📍 تماس با Athenalarm
 
-**Adres:**  
+**آدرس:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-posta:**  
+**ایمیل:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobil / WhatsApp / Viber:**  
+**موبایل / واتساپ / وایبر:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Web Sitesi:**  
+**وب‌سایت:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Bizimle Bağlantıda Kalın
+## 🌐 ارتباط با ما
 
-En son güvenlik yeniliklerimiz, vaka incelemelerimiz ve ürün duyurularımız hakkında güncel kalın:
+با آخرین نوآوری‌های امنیتی، مطالعات موردی و عرضه محصولات ما همراه باشید:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ En son güvenlik yeniliklerimiz, vaka incelemelerimiz ve ürün duyurularımız 
 
 ---
 
-> _Athenalarm — Profesyonel Hırsız Alarmı Üreticisi & Ağ Tabanlı Alarm İzleme Çözümleri._
+> _Athenalarm — تولیدکننده حرفه‌ای دزدگیر و ارائه‌دهنده راهکارهای نظارت شبکه‌ای بر دزدگیر._
