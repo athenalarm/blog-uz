@@ -4,28 +4,28 @@ date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Jesteśmy tutaj, aby pomóc Ci znaleźć najlepsze produkty alarmowe i rozwiązania z zakresu bezpieczeństwa dla Twojej firmy. Niezależnie od tego, czy potrzebujesz wsparcia technicznego, informacji o dystrybucji czy szczegółów dotyczących współpracy, nasz doświadczony zespół jest gotowy, aby Ci pomóc.
+Vi finns här för att hjälpa dig hitta de bästa inbrottslarmprodukterna och säkerhetslösningarna för ditt företag. Oavsett om du behöver teknisk support, information om distribution eller partnerskap, står vårt erfarna team redo att assistera.
 
-## 📍 Skontaktuj się z Athenalarm
+## 📍 Kontakta Athenalarm
 
-**Adres:**  
+**Adress:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-mail:**  
+**E-post:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Telefon komórkowy / WhatsApp / Viber:**  
+**Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Strona internetowa:**  
+**Webbplats:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Połącz się z nami
+## 🌐 Följ oss
 
-Bądź na bieżąco z naszymi najnowszymi innowacjami w zakresie bezpieczeństwa, studiami przypadków i premierami produktów:
+Håll dig uppdaterad med våra senaste säkerhetsinnovationer, fallstudier och produktlanseringar:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Bądź na bieżąco z naszymi najnowszymi innowacjami w zakresie bezpieczeństwa
 
 ---
 
-> _Athenalarm — Profesjonalny producent systemów alarmowych oraz dostawca rozwiązań z zakresu sieciowego monitoringu alarmów._
+> _Athenalarm — Professionell tillverkare av inbrottslarm & nätverksbaserade larmövervakningslösningar._

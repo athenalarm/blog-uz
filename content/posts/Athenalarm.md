@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Profesjonalny producent systemów alarmowych i rozwiązań do monitorowania alarmów sieciowych"
+title: "Athenalarm – Professionell Tillverkare av Inbrottslarm & Nätverksövervakningslösningar"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Przegląd
+## Översikt
 
-Założona w 2006 roku, Athenalarm to profesjonalny producent systemów alarmowych specjalizujący się w systemach alarmowych przeciw włamaniom oraz sieciowych systemach monitorowania alarmów. Nasze produkty oferują niezawodne i praktyczne rozwiązania bezpieczeństwa dla firm, instytucji oraz wspólnot mieszkaniowych. Koncentrujemy się na przemysłowych systemach alarmowych, które łączą alarmy przeciwwłamaniowe z monitoringiem CCTV dla weryfikacji w czasie rzeczywistym, wspierając zdalną diagnostykę i scentralizowane zarządzanie. Systemy te są odpowiednie dla wielu sektorów, w tym bankowości, edukacji, handlu detalicznego, opieki zdrowotnej i osiedli mieszkaniowych, i są zaufane przez klientów na całym świecie.
+Grundat 2006, Athenalarm är en professionell tillverkare av inbrottslarm som specialiserar sig på intrångslarm och nätverksövervakningssystem. Våra produkter erbjuder pålitliga och praktiska säkerhetslösningar för företag, institutioner och bostadsområden. Vi fokuserar på industriella intrångslarmssystem som kombinerar inbrottslarm med CCTV för realtidsverifiering, med stöd för fjärrdiagnostik och centraliserad hantering. Dessa system är lämpliga för olika sektorer, inklusive banker, utbildning, detaljhandel, sjukvård och bostadsområden, och är betrodda av kunder världen över.
 
-Nasz szeroki asortyment obejmuje centrale alarmowe, oprogramowanie alarmowe, czujniki ruchu, detektory alarmowe, komponenty alarmowe, systemy inteligentnego domu oraz urządzenia głosowe. Te produkty alarmowe zapewniają kompleksowe pokrycie bezpieczeństwa dla różnych zastosowań — od skarbców bankowych po ogrodzenia wspólnot i obiekty przemysłowe.
+Vårt omfattande produktsortiment täcker larmpaneler, larmsystemprogramvara, rörelsesensorer, larmdetektorer, larmsystemkomponenter, smarta hemsystem och röstpåminnelseenheter. Dessa inbrottslarmprodukter ger heltäckande säkerhet för olika tillämpningar, från bankvalv till samhällsområden och företagsanläggningar.
 
-Dodatkowo oferujemy usługi OEM i personalizowane brandowanie, umożliwiając partnerom wprowadzanie na rynek systemów alarmowych pod własną marką z dostosowanym sprzętem, wielojęzycznymi instrukcjami i wsparciem w zakresie opakowań. Niezależnie od tego, czy jesteś dystrybutorem, integratorem czy użytkownikiem końcowym, oferta Athenalarm pozwala na bezproblemowe wdrażanie profesjonalnych rozwiązań bezpieczeństwa na całym świecie.
+Dessutom erbjuder vi OEM- och anpassade varumärkestjänster, vilket gör det möjligt för partners att lansera privata intrångslarmssystem med hårdvaruanpassning, flerspråkiga manualer och förpackningsstöd. Oavsett om du är distributör, integratör eller slutanvändare, möjliggör Athenalarm en smidig implementering av professionella säkerhetslösningar globalt.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Produkty
+## Produkter
 
-![Przemysłowe panele alarmowe serii AS-9000 zainstalowane w kompleksie komercyjnym](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Linia Produktowa | Kluczowe Korzyści | Idealne Dla |
-|------------------|------------------|-------------|
-| Seria AS-9000 – Panele alarmowe | Wielokanałowa komunikacja (PSTN, 4G, TCP/IP), rozszerzalne strefy (16 przewodowych, 30 bezprzewodowych, do 1 656 za pomocą modułów), klawiatura LCD z komunikatami głosowymi, wykrywanie sabotażu, automatyczny zapis zdarzeń | Banki, parki przemysłowe, szkoły, kompleksy komercyjne, wspólnoty mieszkaniowe |
-| Rozwiązania do monitorowania alarmów sieciowych | Scentralizowane zarządzanie, integracja alarmów przeciwwłamaniowych z CCTV i platformami chmurowymi, wyskakujące powiadomienia w czasie rzeczywistym, nagrywanie wideo, wielopoziomowe przekazywanie alarmów, zdalna diagnostyka | Oddziały banków, bankomaty, skarbce, hotele, sklepy, przedsiębiorstwa, ogrodzenia, wspólnoty mieszkaniowe |
-| Seria AA-100 – Urządzenia przypomnień głosowych | Konfigurowalne komunikaty głosowe (MP3), odtwarzanie dwukierunkowe, tryb cichego alarmu, integracja przewodowa/bezprzewodowa, dwa tryby oświetlenia | Sklepy detaliczne, szpitale, biura, hotele, banki, magazyny, obiekty mieszkalne |
-| Detektory alarmowe | Czujniki ruchu PIR (AT-805, AT-806), fotoelektryczny czujnik dymu (AS-603PC), czujnik gazu (AS-705), cyfrowy czujnik wibracji (AS-971), kontaktron drzwiowy (AA-56), przyciski alarmowe (AA-28B, AA-07) | Domy, biura, banki, hotele, szpitale, magazyny, sklepy detaliczne |
-| Systemy Inteligentnego Domu | System alarmowy GSM/WIFI (AS-6000), integruje się z innymi czujnikami i panelami w celu automatycznych powiadomień i zdalnego monitoringu | Wspólnoty mieszkaniowe, biura, małe firmy |
+| Produktlinje | Viktiga Fördelar | Lämplig För |
+|--------------|----------------|-------------|
+| AS-9000-seriens Larmpaneler | Multi-kanals kommunikation (PSTN, 4G, TCP/IP), utbyggbara zoner (16 trådade, 30 trådlösa, upp till 1 656 via moduler), LCD-tangentbord med röstmeddelanden, sabotageövervakning, automatisk loggning av händelser | Banker, industriparker, skolor, kommersiella komplex, bostadsområden |
+| Nätverksövervakningslösningar | Centraliserad hantering, integrerar intrångslarm med CCTV och molnplattformar, realtidslarm-popup, videoinspelning, fler-nivå vidarebefordran, fjärrdiagnostik | Bankkontor, bankomater, valv, hotell, butiker, företag, perimeterområden, bostadsområden |
+| AA-100-seriens Röstpåminnelser | Anpassningsbara röstvarningar (MP3), tvåvägsuppspelning, ljudlöst larmläge, trådbunden/trådlös integration, dubbla ljuslägen | Detaljhandel, sjukhus, kontor, hotell, banker, lager, bostadsområden |
+| Larmdetektorer | PIR-rörelsesensorer (AT-805, AT-806), fotoelektrisk rökdetektor (AS-603PC), gasdetektor (AS-705), digital vibrationsdetektor (AS-971), dörrkontakt (AA-56), panikknappar (AA-28B, AA-07) | Hem, kontor, banker, hotell, sjukhus, lager, detaljhandel |
+| Smarta Hemssystem | GSM/WIFI-larmsystem (AS-6000), integreras med andra sensorer och paneler för automatiska varningar och fjärrövervakning | Bostadsområden, kontor, småföretag |
 
-[Obejrzyj Wideo 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Obejrzyj Wideo 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Se Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Se Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## Usługi OEM i personalizowanego brandingu
+## OEM & Anpassade Varumärkestjänster
 
-Oferujemy rozwiązania typu private label i niestandardowe dla dystrybutorów oraz integratorów: dostosowanie sprzętu, wielojęzyczne instrukcje, opakowania oraz wsparcie brandingowe. Umożliwia to partnerom szybkie i profesjonalne wprowadzanie markowych produktów alarmowych na rynek.
+Vi erbjuder privata och anpassade lösningar för distributörer och integratörer: hårdvaruanpassning, flerspråkiga manualer, förpackning och varumärkesstöd. Detta gör det möjligt för partners att snabbt och professionellt lansera varumärkta inbrottslarmprodukter.
 
-Idealne dla: Dystrybutorów i integratorów wprowadzających markowe produkty bezpieczeństwa
+Lämplig För: Distributörer och integratörer som lanserar varumärkta säkerhetsprodukter
 
-[Zobacz przykład OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Se OEM-exempel](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Dlaczego Athenalarm się wyróżnia
+## Varför Athenalarm Utmärker Sig
 
-- **Udowodnione doświadczenie:** Od 2006 roku dostarczamy skalowalne rozwiązania alarmowe i przeciwwłamaniowe, którym ufają klienci na całym świecie.  
-- **Wszechstronne zastosowania:** Idealne dla banków, hoteli, sklepów, wspólnot, biur i innych — łącząc alarmy, CCTV i technologię chmurową w scentralizowanym systemie kontroli.  
-- **Opłacalna innowacja:** Łatwe w instalacji systemy z wielokanałową komunikacją (PSTN, 4G, TCP/IP) oraz możliwościami rozbudowy w konkurencyjnych cenach.  
-- **Satysfakcja klientów:** Zaufanie klientów na całym świecie dzięki niezawodnym produktom i systemom bezpieczeństwa.
+- Bevisad Expertis: Sedan 2006, levererar skalbara intrångslarm och inbrottslarmlösningar betrodda av kunder världen över.  
+- Mångsidiga Tillämpningar: Lämpliga för banker, hotell, butiker, samhällen, kontor med mera – kombinerar larm, CCTV och molnteknik för centraliserad kontroll.  
+- Kostnadseffektiv Innovation: Enkla att installera system med multi-kanals kommunikation (PSTN, 4G, TCP/IP) och utbyggbara funktioner till konkurrenskraftiga priser.  
+- Kundnöjdhet: Betrodda av kunder världen över för pålitliga säkerhetsprodukter och system.
 
-[Zobacz studia przypadków instalacji klientów](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Se Kundinstallationsfall](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Opinie klientów
+## Kundomdömen
 
-- „System alarmowy działa znakomicie, zainstalowałem jeden zestaw i funkcjonuje bez zarzutu.” – Rabeah Arnous, CEO  
-- „Świetny system… Zainstalowałem go, a mój klient był bardzo zadowolony. Ocena 5 gwiazdek.” – Bassey Tom, CEO  
-- „System monitorowania alarmów sieciowych jest doskonały — łatwy w obsłudze, prosty w instalacji i oferuje transmisję w czasie rzeczywistym. Czekamy na kolejne zamówienie.” – Ben Takan, Koordynator Bezpieczeństwa
+- "Intrångslarmet fungerar utmärkt, jag installerade ett system och det fungerar perfekt." – Rabeah Arnous, CEO  
+- "Fantastiskt system…Har installerat det och min kund var mycket nöjd. 5-stjärnigt betyg." – Bassey Tom, CEO  
+- "Nätverksövervakningssystemet är så bra, lätt att använda, lätt att installera och med realtidsöverföring. Vi ser fram emot nästa beställning." – Ben Takan, Säkerhetskoordinator
 
-## Zacznij już teraz
+## Kom Igång
 
-Niezależnie od tego, czy jesteś integratorem systemów bezpieczeństwa, dystrybutorem, czy użytkownikiem końcowym, Athenalarm dostarcza wysokiej jakości produkty i systemy alarmowe dostosowane do Twoich potrzeb.
+Oavsett om du är säkerhetsintegratör, distributör eller slutanvändare, erbjuder Athenalarm högkvalitativa inbrottslarmprodukter och intrångslarmssystem anpassade efter dina behov.
 
-[Odwiedź Athenalarm.com już teraz – uzyskaj bezpłatną wycenę!](https://athenalarm.com/)
+[Besök Athenalarm.com nu – Få en gratis offert idag!](https://athenalarm.com/)
 
-## Skontaktuj się bezpośrednio
+## Kontakta Oss Direkt
 
-- Strona internetowa: [https://athenalarm.com/](https://athenalarm.com/)  
-- Email: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Telefon/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Webbplats: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-post: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Śledź nas
+## Följ oss
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  
