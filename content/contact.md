@@ -1,31 +1,31 @@
 ---
-title: "Kontak"
+title: "Wasiliana Nasi"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Kami siap membantu Anda menemukan produk alarm anti-maling dan solusi keamanan terbaik untuk bisnis Anda. Apakah Anda membutuhkan dukungan teknis, informasi distribusi, atau peluang kemitraan, tim berpengalaman kami siap memberikan bantuan.
+Tuko hapa kukusaidia kupata bidhaa bora zaidi za **burglar alarm** na suluhisho za usalama kwa biashara yako. Iwe unahitaji msaada wa kiufundi, maelezo kuhusu usambazaji, au taarifa za ushirikiano, timu yetu yenye uzoefu iko tayari kukusaidia.
 
-## 📍 Kontak Athenalarm
+## 📍 Wasiliana na Athenalarm
 
-**Alamat:**  
+**Anwani:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**Barua pepe:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobile / WhatsApp / Viber:**  
+**Simu / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Tovuti:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Terhubung Dengan Kami
+## 🌐 Ungana Nasi
 
-Tetap terupdate dengan inovasi keamanan terbaru, studi kasus, dan peluncuran produk kami:
+Endelea kupata taarifa za hivi karibuni kuhusu ubunifu wetu wa usalama, tafiti za kesi, na uzinduzi wa bidhaa mpya:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Tetap terupdate dengan inovasi keamanan terbaru, studi kasus, dan peluncuran pro
 
 ---
 
-> _Athenalarm — Produsen Profesional Alarm Anti-Maling & Solusi Pemantauan Alarm Jaringan._
+> _Athenalarm — Mtengenezaji Mtaalamu wa Burglar Alarm & Mtoa Suluhisho za Ufuatiliaji wa Alarm kwa Mtandao._
