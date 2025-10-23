@@ -1,31 +1,31 @@
 ---
-title: "צור קשר"
+title: "Hubungi"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-אנחנו כאן כדי לעזור לכם למצוא את מוצרי אזעקה המגניבים ביותר ופתרונות אבטחה מתקדמים לעסק שלכם. בין אם אתם זקוקים לתמיכה טכנית, פרטי הפצה או מידע על שיתופי פעולה, הצוות המנוסה שלנו מוכן לסייע לכם.
+Kami di sini untuk membantu anda mencari produk penggera pencuri dan penyelesaian keselamatan terbaik untuk perniagaan anda. Sama ada anda memerlukan sokongan teknikal, maklumat pengedaran, atau kerjasama, pasukan berpengalaman kami sedia untuk membantu.
 
-## 📍 צור קשר עם Athenalarm
+## 📍 Hubungi Athenalarm
 
-**כתובת:**  
+**Alamat:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**אימייל:**  
+**Emel:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**נייד / WhatsApp / Viber:**  
+**Telefon Bimbit / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**אתר אינטרנט:**  
+**Laman Web:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 התחברו אלינו
+## 🌐 Bersambung Dengan Kami
 
-התעדכנו בחדשנויות האחרונות שלנו בתחום האבטחה, במחקרים על מקרי בוחן ובשחרורים של מוצרים חדשים:
+Dapatkan kemas kini mengenai inovasi keselamatan terkini, kajian kes, dan pelancaran produk:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — יצרן מקצועי של אזעקות גניבה ופתרונות ניטור רשת לאזעקות._
+> _Athenalarm — Pengilang Penggera Pencuri Profesional & Penyelesaian Pemantauan Penggera Rangkaian._
