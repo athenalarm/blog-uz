@@ -4,11 +4,11 @@ date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Vi finns här för att hjälpa dig hitta de bästa inbrottslarmprodukterna och säkerhetslösningarna för ditt företag. Oavsett om du behöver teknisk support, information om distribution eller partnerskap, står vårt erfarna team redo att assistera.
+Vi er her for å hjelpe deg med å finne de beste innbruddsalarmer og sikkerhetsløsningene for din virksomhet. Enten du trenger teknisk støtte, distribusjonsinformasjon eller partnerskapsdetaljer, er vårt erfarne team klare til å assistere.
 
-## 📍 Kontakta Athenalarm
+## 📍 Kontakt Athenalarm
 
-**Adress:**  
+**Adresse:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
@@ -18,14 +18,14 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 **Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Webbplats:**  
+**Nettside:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Följ oss
+## 🌐 Koble med oss
 
-Håll dig uppdaterad med våra senaste säkerhetsinnovationer, fallstudier och produktlanseringar:
+Hold deg oppdatert med våre nyeste sikkerhetsinnovasjoner, casestudier og produktlanseringer:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Håll dig uppdaterad med våra senaste säkerhetsinnovationer, fallstudier och p
 
 ---
 
-> _Athenalarm — Professionell tillverkare av inbrottslarm & nätverksbaserade larmövervakningslösningar._
+> _Athenalarm — Profesjonell produsent av innbruddsalarmer og løsninger for nettverksbasert alarmovervåking._
