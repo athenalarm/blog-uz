@@ -1,31 +1,31 @@
 ---
-title: "Ota yhteyttä"
+title: "צור קשר"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Olemme täällä auttamassa sinua löytämään parhaat murtohälytysjärjestelmät ja turvallisuusratkaisut yrityksellesi. Tarvitsetpa sitten teknistä tukea, jakelutietoja tai kumppanuusmahdollisuuksia, kokenut tiimimme on valmis auttamaan sinua.
+אנחנו כאן כדי לעזור לכם למצוא את מוצרי אזעקה המגניבים ביותר ופתרונות אבטחה מתקדמים לעסק שלכם. בין אם אתם זקוקים לתמיכה טכנית, פרטי הפצה או מידע על שיתופי פעולה, הצוות המנוסה שלנו מוכן לסייע לכם.
 
-## 📍 Ota yhteyttä Athenalarmiin
+## 📍 צור קשר עם Athenalarm
 
-**Osoite:**  
+**כתובת:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Sähköposti:**  
+**אימייל:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Puhelin / WhatsApp / Viber:**  
+**נייד / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Verkkosivusto:**  
+**אתר אינטרנט:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Yhdistä meihin
+## 🌐 התחברו אלינו
 
-Pysy ajan tasalla uusimmista turvallisuusinnovaatioistamme, tapaustutkimuksista ja tuotejulkistuksista:
+התעדכנו בחדשנויות האחרונות שלנו בתחום האבטחה, במחקרים על מקרי בוחן ובשחרורים של מוצרים חדשים:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Pysy ajan tasalla uusimmista turvallisuusinnovaatioistamme, tapaustutkimuksista 
 
 ---
 
-> _Athenalarm — Ammattimainen murtohälytinjärjestelmien valmistaja ja verkon kautta toimivien hälytysvalvontaratkaisujen tarjoaja._
+> _Athenalarm — יצרן מקצועי של אזעקות גניבה ופתרונות ניטור רשת לאזעקות._
