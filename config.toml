@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogvi.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Blog của Athenalarm"
-languageCode = "vi"
+baseURL = "https://blogpl.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Blog Athenalarm"
+languageCode = "pl"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,19 +13,19 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Trang chủ"
+    name = "Strona główna"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Bài viết"
+    name = "Artykuły"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Liên hệ"
+    name = "Kontakt"
     url = "/contact/"
     weight = 3
 

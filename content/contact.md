@@ -1,31 +1,31 @@
 ---
-title: "Liên hệ"
+title: "Kontakt"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Chúng tôi luôn sẵn sàng hỗ trợ bạn tìm ra các sản phẩm báo động chống trộm và giải pháp an ninh phù hợp nhất cho doanh nghiệp của bạn. Dù bạn cần hỗ trợ kỹ thuật, thông tin phân phối hay hợp tác, đội ngũ giàu kinh nghiệm của chúng tôi luôn sẵn sàng giúp đỡ.
+Jesteśmy tutaj, aby pomóc Ci znaleźć najlepsze produkty alarmowe i rozwiązania z zakresu bezpieczeństwa dla Twojej firmy. Niezależnie od tego, czy potrzebujesz wsparcia technicznego, informacji o dystrybucji czy szczegółów dotyczących współpracy, nasz doświadczony zespół jest gotowy, aby Ci pomóc.
 
-## 📍 Liên hệ với Athenalarm
+## 📍 Skontaktuj się z Athenalarm
 
-**Địa chỉ:**  
+**Adres:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**E-mail:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Di động / WhatsApp / Viber:**  
+**Telefon komórkowy / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Strona internetowa:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Kết nối với chúng tôi
+## 🌐 Połącz się z nami
 
-Cập nhật những đổi mới mới nhất trong lĩnh vực an ninh, các nghiên cứu tình huống và sản phẩm mới của chúng tôi:
+Bądź na bieżąco z naszymi najnowszymi innowacjami w zakresie bezpieczeństwa, studiami przypadków i premierami produktów:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Cập nhật những đổi mới mới nhất trong lĩnh vực an ninh, các n
 
 ---
 
-> _Athenalarm — Nhà sản xuất thiết bị báo động chống trộm chuyên nghiệp & Giải pháp giám sát báo động qua mạng._
+> _Athenalarm — Profesjonalny producent systemów alarmowych oraz dostawca rozwiązań z zakresu sieciowego monitoringu alarmów._
