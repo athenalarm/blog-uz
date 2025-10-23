@@ -1,31 +1,31 @@
 ---
-title: "Hubungi"
+title: "Kontak"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Kami di sini untuk membantu anda mencari produk penggera pencuri dan penyelesaian keselamatan terbaik untuk perniagaan anda. Sama ada anda memerlukan sokongan teknikal, maklumat pengedaran, atau kerjasama, pasukan berpengalaman kami sedia untuk membantu.
+Kami siap membantu Anda menemukan produk alarm anti-maling dan solusi keamanan terbaik untuk bisnis Anda. Apakah Anda membutuhkan dukungan teknis, informasi distribusi, atau peluang kemitraan, tim berpengalaman kami siap memberikan bantuan.
 
-## 📍 Hubungi Athenalarm
+## 📍 Kontak Athenalarm
 
 **Alamat:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Emel:**  
+**Email:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Telefon Bimbit / WhatsApp / Viber:**  
+**Mobile / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Laman Web:**  
+**Website:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Bersambung Dengan Kami
+## 🌐 Terhubung Dengan Kami
 
-Dapatkan kemas kini mengenai inovasi keselamatan terkini, kajian kes, dan pelancaran produk:
+Tetap terupdate dengan inovasi keamanan terbaru, studi kasus, dan peluncuran produk kami:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Dapatkan kemas kini mengenai inovasi keselamatan terkini, kajian kes, dan pelanc
 
 ---
 
-> _Athenalarm — Pengilang Penggera Pencuri Profesional & Penyelesaian Pemantauan Penggera Rangkaian._
+> _Athenalarm — Produsen Profesional Alarm Anti-Maling & Solusi Pemantauan Alarm Jaringan._
