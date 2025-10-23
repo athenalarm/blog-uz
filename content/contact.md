@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Ota yhteyttä"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Vi er her for at hjælpe dig med at finde de bedste tyverialarmsprodukter og sikkerhedsløsninger til din virksomhed. Uanset om du har brug for teknisk support, distributionsoplysninger eller partnerskabsinformation, står vores erfarne team klar til at hjælpe dig.
+Olemme täällä auttamassa sinua löytämään parhaat murtohälytysjärjestelmät ja turvallisuusratkaisut yrityksellesi. Tarvitsetpa sitten teknistä tukea, jakelutietoja tai kumppanuusmahdollisuuksia, kokenut tiimimme on valmis auttamaan sinua.
 
-## 📍 Kontakt Athenalarm
+## 📍 Ota yhteyttä Athenalarmiin
 
-**Adresse:**  
+**Osoite:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-mail:**  
+**Sähköposti:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobil / WhatsApp / Viber:**  
+**Puhelin / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Websted:**  
+**Verkkosivusto:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Forbind dig med os
+## 🌐 Yhdistä meihin
 
-Hold dig opdateret med vores seneste sikkerhedsinnovationer, casestudier og produktlanceringer:
+Pysy ajan tasalla uusimmista turvallisuusinnovaatioistamme, tapaustutkimuksista ja tuotejulkistuksista:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Hold dig opdateret med vores seneste sikkerhedsinnovationer, casestudier og prod
 
 ---
 
-> _Athenalarm — Professionel producent af tyverialarmer og løsninger til netværksbaseret alarmovervågning._
+> _Athenalarm — Ammattimainen murtohälytinjärjestelmien valmistaja ja verkon kautta toimivien hälytysvalvontaratkaisujen tarjoaja._
