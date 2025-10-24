@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogmy.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm ဘလော့ဂ်"
-languageCode = "my"
+baseURL = "https://blogam.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm ብሎግ"
+languageCode = "am"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "ပင်မစာမျက်နှာ"
+    name = "መነሻ"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "ပို့စ်များ"
+    name = "ልጥፎች"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "ဆက်သွယ်ရန်"
+    name = "እያወቅ"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # ပင်မစာမျက်နှာတွင် နောက်ဆုံးရေးသားသော ဆောင်းပါး ၅ ခု ပြရန်
-mainSections = ["posts"]  # ပင်မစာမျက်နှာတွင် "posts" အမျိုးအစားဆောင်းပါးများသာ ပြရန်
+paginate = 5          # 首页显示最新 5 篇文章
+mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
