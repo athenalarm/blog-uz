@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogam.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm ብሎግ"
-languageCode = "am"
+baseURL = "https://blogtl.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Blog ng Athenalarm"
+languageCode = "tl"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "መነሻ"
+    name = "Bahay"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "ልጥፎች"
+    name = "Mga Post"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "እያወቅ"
+    name = "Makipag-ugnay"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # 首页显示最新 5 篇文章
-mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
+paginate = 5          # Homepage shows latest 5 posts
+mainSections = ["posts"]  # Home page only shows articles of type "posts"
