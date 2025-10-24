@@ -1,31 +1,31 @@
 ---
-title: "Makipag-ugnayan"
+title: "Aloqa"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Narito kami upang tulungan kang makahanap ng pinakamahusay na mga produkto ng alarma laban sa pagnanakaw at mga solusyon sa seguridad para sa iyong negosyo. Kung kailangan mo man ng teknikal na suporta, detalye sa distribusyon, o impormasyon tungkol sa pakikipagtulungan, ang aming bihasang koponan ay handang tumulong.
+Biz sizning biznesingiz uchun eng yaxshi o‘g‘rilik signalizatsiyasi mahsulotlari va xavfsizlik yechimlarini topishda yordam berishga tayyormiz. Sizga texnik yordam, distribyutorlik tafsilotlari yoki hamkorlik ma'lumotlari kerak bo‘lsa ham, tajribali jamoamiz yordam berishga tayyor.
 
-## 📍 Makipag-ugnayan sa Athenalarm
+## 📍 Athenalarm bilan Aloqa
 
-**Tirahan:**  
+**Manzil:**  
 D910, Silver Star Scientific and Technical Building,  
-Guanlan, Longhua, Shenzhen, Guangdong, China  
+Guanlan, Longhua, Shenzhen, Guangdong, Xitoy  
 
-**Liham Elektroniko:**  
+**Elektron pochta:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Telepono / WhatsApp / Viber:**  
+**Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Veb-sayt:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Kumonekta sa Amin
+## 🌐 Biz bilan bog‘laning
 
-Manatiling updated sa aming mga pinakabagong inobasyon sa seguridad, mga pag-aaral ng kaso, at mga bagong produkto:
+So‘nggi xavfsizlik innovatsiyalari, ish holatlari va mahsulot yangiliklarimizdan xabardor bo‘ling:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Manatiling updated sa aming mga pinakabagong inobasyon sa seguridad, mga pag-aar
 
 ---
 
-> _Athenalarm — Propesyonal na Tagagawa ng Alarmang Panlaban sa Pagnanakaw at Mga Solusyon sa Pagsubaybay sa Network ng Alarma._
+> _Athenalarm — Professional O‘g‘rilik Signalizatsiyasi Ishlab Chiqaruvchisi & Tarmoq Signalizatsiyasini Monitoring Qilish Yechimlari._

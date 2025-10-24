@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogtl.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Blog ng Athenalarm"
-languageCode = "tl"
+baseURL = "https://bloguz.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm Blogi"
+languageCode = "uz"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Bahay"
+    name = "Bosh sahifa"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Mga Post"
+    name = "Maqolalar"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Makipag-ugnay"
+    name = "Bog‘lanish"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # Homepage shows latest 5 posts
-mainSections = ["posts"]  # Home page only shows articles of type "posts"
+paginate = 5          # Bosh sahifada oxirgi 5 ta maqola ko‘rsatiladi
+mainSections = ["posts"]  # Bosh sahifa faqat "posts" turidagi maqolalarni ko‘rsatadi
