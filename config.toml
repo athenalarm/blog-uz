@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogkn.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm ಬ್ಲಾಗ್"
-languageCode = "kn"
+baseURL = "https://blogml.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm ബ്ലോഗ്"
+languageCode = "ml"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,19 +13,19 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "ಮುಖಪುಟ"
+    name = "ഹോം"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "ಲೇಖನಗಳು"
+    name = "പോസ്റ്റുകൾ"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "ಸಂಪರ್ಕ"
+    name = "ബന്ധപ്പെടുക"
     url = "/contact/"
     weight = 3
 
