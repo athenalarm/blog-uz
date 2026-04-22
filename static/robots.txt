@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bloguz.athenalarm.com/sitemap.xml
